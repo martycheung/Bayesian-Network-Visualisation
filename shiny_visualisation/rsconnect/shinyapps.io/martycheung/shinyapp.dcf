@@ -1,0 +1,12 @@
+name: shinyapp
+title:
+username:
+account: martycheung
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2453282
+bundleId: 3268462
+url: https://martycheung.shinyapps.io/shinyapp/
+when: 1592152582.98601
+asMultiple: FALSE
+asStatic: FALSE
