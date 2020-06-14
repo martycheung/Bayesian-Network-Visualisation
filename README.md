@@ -6,5 +6,5 @@ Note: Due to data confidentiality reasons, the data used here has been scrubbed 
 
 The size of the nodes represent the total spend of the marketing activity, the thickness of the connections represent the strength of the relationship (in other words, the ROI for that activity) and the direction of the arrows represents the direction of the impact. Below are some screenshots of the visualisation. The RShiny app is hosted on [here](https://martycheung.shinyapps.io/bayesian-network-visualisation/).
 
-<img src="images/image1.png">
-<img src="images/image2.png">
+<img src="images/image1.PNG">
+<img src="images/image2.PNG">
